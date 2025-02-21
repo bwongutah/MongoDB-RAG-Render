@@ -16,9 +16,9 @@ const Home = () => {
 
         <h2 style={{ fontStyle: 'italic' }}>Getting Started</h2>
         <ul>
-          <li>Navigate to the &ldquo;Train&rdquo; tab above.</li>
+          <li>Navigate to the &ldquo;RAG Train&rdquo; tab above.</li>
           <li>Here you can upload any number of PDF files you wish to ask the chatbot about, or that you wish the chatbot would consider when providing an answer.</li>
-          <li>After uploading your files, navigate to &ldquo;QnA&rdquo; tab.</li>
+          <li>After uploading your files, navigate to &ldquo;Chatbot&rdquo; tab.</li>
           <li>In the prompt, you can now ask questions about the uploaded PDF files in natural language, and receive a response.</li>
         </ul>
 
