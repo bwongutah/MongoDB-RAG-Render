@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Diabetes Chatbot",
-  description: "RAG using MongoDB Atlas & OpenAI"
+  description: "RAG using MongoDB Atlas & OpenAI with focus on Diabetes"
 };
 
 export default function RootLayout({

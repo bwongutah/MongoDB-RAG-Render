@@ -14,12 +14,12 @@ const NavBar: React.FC = () => {
         </li>
         <li style={{ display: 'inline', marginLeft: '2rem' }}>
           <Link href="/ask">
-            QnA
+            Chatbot
           </Link>
         </li>
         <li style={{ display: 'inline', marginLeft: '2rem' }}>
           <Link href="/teach">
-            Train
+            RAG Train with PDF files
           </Link>
         </li>
       </ol>
